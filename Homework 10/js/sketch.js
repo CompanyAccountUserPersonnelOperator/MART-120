@@ -46,8 +46,8 @@ function draw()
 {
     background(120,45,78);
     textSize(20);
-    text("X: " + mouseX,100,200 );
-    text("Y: " + mouseY,100,220 );
+//    text("X: " + mouseX,100,200 );
+//    text("Y: " + mouseY,100,220 );
 
 //head
     fill(255, 204, 0);
